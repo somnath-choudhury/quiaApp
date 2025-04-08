@@ -1,5 +1,17 @@
 <h3>A beautifully designed and modular quiz application built with React Native and TypeScript. This app enables users to take quizzes on various topics, view results, and track their progress.</h3>
 
+## Features:
+* Quiz topics with interactive questions and answers
+
+* Highlighted correct/incorrect answers with color-coded feedback
+
+* Progress bar per quiz
+
+* Detailed results summary
+
+
+* Smooth navigation using React Navigation
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
