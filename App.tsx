@@ -1,4 +1,3 @@
-// App.tsx
 import React, {useState} from 'react';
 import {StatusBar, useColorScheme, View, StyleSheet} from 'react-native';
 import {Colors} from 'react-native/Libraries/NewAppScreen';
